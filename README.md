@@ -1,1 +1,1 @@
-# text-generative-model
+# Text-Generative-AI
