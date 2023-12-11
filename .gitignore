@@ -1,0 +1,9 @@
+# Ignore all text files
+*.txt
+
+# Ignore all zip files
+*.zip
+
+
+# Ignore all Jupyter Notebook files
+.ipynb_checkpoints
